@@ -41,6 +41,6 @@ Other Parameters:
 
 ## AI studio link
 
-* [https://aistudio.baidu.com/aistudio/projectdetail/2535213](https://aistudio.baidu.com/aistudio/projectdetail/2535213)
+* [https://aistudio.baidu.com/aistudio/projectdetail/2547405](https://aistudio.baidu.com/aistudio/projectdetail/2547405)
 
 
