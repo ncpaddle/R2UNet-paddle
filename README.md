@@ -25,7 +25,7 @@ In this repository, we implement the R2U-Net network with the [Paddle](https://w
 
 To train the model yourself, run :  
 ```
-python mainn.py --model R2U-Net --mode train 
+python main.py --model R2U-Net --mode train 
 ```
 To test the results with the model we provided :
 ```
