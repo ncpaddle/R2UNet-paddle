@@ -183,6 +183,7 @@ in ParamBase copy_to func
 100%|███████████████████████████████████████| 1063/1063 [01:09<00:00, 15.19it/s]
 Train loss: 0.136
 [Validation] F1:0.7836, Precision:0.7997, Recall:0.7701, AC: 0.9589, AUC : 0.8745
+[Test]:
 F1 score: 0.2474
 sensitivity: 0.2763
 specificity: 0.8609
@@ -192,6 +193,7 @@ AUC: 0.5686
 100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.17it/s]
 Train loss: 0.110
 [Validation] F1:0.7924, Precision:0.7620, Recall:0.8269, AC: 0.9580, AUC : 0.8994
+[Test]:
 F1 score: 0.8172
 sensitivity: 0.8269
 specificity: 0.9720
@@ -201,6 +203,7 @@ AUC: 0.8995
 100%|███████████████████████████████████████| 1063/1063 [01:09<00:00, 15.21it/s]
 Train loss: 0.098
 [Validation] F1:0.7993, Precision:0.7786, Recall:0.8227, AC: 0.9601, AUC : 0.8987
+[Test]:
 F1 score: 0.8186
 sensitivity: 0.8014
 specificity: 0.9780
@@ -210,6 +213,7 @@ AUC: 0.8897
 100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.11it/s]
 Train loss: 0.093
 [Validation] F1:0.8034, Precision:0.7894, Recall:0.8198, AC: 0.9614, AUC : 0.8980
+[Test]:
 F1 score: 0.8195
 sensitivity: 0.7923
 specificity: 0.9801
@@ -219,6 +223,7 @@ AUC: 0.8862
 100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.04it/s]
 Train loss: 0.090
 [Validation] F1:0.7989, Precision:0.7620, Recall:0.8412, AC: 0.9591, AUC : 0.9063
+[Test]:
 F1 score: 0.8232
 sensitivity: 0.8164
 specificity: 0.9763
@@ -228,6 +233,7 @@ AUC: 0.8963
 100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.14it/s]
 Train loss: 0.085
 [Validation] F1:0.7975, Precision:0.7602, Recall:0.8402, AC: 0.9587, AUC : 0.9056
+[Test]:
 F1 score: 0.8192
 sensitivity: 0.8159
 specificity: 0.9751
