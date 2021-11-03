@@ -1,0 +1,235 @@
+/home/aistudio/work/R2UNet_paddle
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/matplotlib/__init__.py:107: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import MutableMapping
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/matplotlib/rcsetup.py:20: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import Iterable, Mapping
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/matplotlib/colors.py:53: DeprecationWarning: Using or importing the ABCs from 'collections' instead of from 'collections.abc' is deprecated, and in 3.8 it will stop working
+  from collections import Sized
+W1103 09:04:03.943699   673 device_context.cc:447] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 10.1, Runtime API Version: 10.1
+W1103 09:04:03.948853   673 device_context.cc:465] device: 0, cuDNN Version: 7.6.
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+in ParamBase copy_to func
+========== epoch 0 ==========
+100%|███████████████████████████████████████| 1063/1063 [01:09<00:00, 15.19it/s]
+Train loss: 0.136
+[Validation] F1:0.7836, Precision:0.7997, Recall:0.7701, AC: 0.9589, AUC : 0.8745
+F1 score: 0.2474
+sensitivity: 0.2763
+specificity: 0.8609
+accuracy: 0.7863
+AUC: 0.5686
+========== epoch 1 ==========
+100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.17it/s]
+Train loss: 0.110
+[Validation] F1:0.7924, Precision:0.7620, Recall:0.8269, AC: 0.9580, AUC : 0.8994
+F1 score: 0.8172
+sensitivity: 0.8269
+specificity: 0.9720
+accuracy: 0.9533
+AUC: 0.8995
+========== epoch 2 ==========
+100%|███████████████████████████████████████| 1063/1063 [01:09<00:00, 15.21it/s]
+Train loss: 0.098
+[Validation] F1:0.7993, Precision:0.7786, Recall:0.8227, AC: 0.9601, AUC : 0.8987
+F1 score: 0.8186
+sensitivity: 0.8014
+specificity: 0.9780
+accuracy: 0.9552
+AUC: 0.8897
+========== epoch 3 ==========
+100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.11it/s]
+Train loss: 0.093
+[Validation] F1:0.8034, Precision:0.7894, Recall:0.8198, AC: 0.9614, AUC : 0.8980
+F1 score: 0.8195
+sensitivity: 0.7923
+specificity: 0.9801
+accuracy: 0.9559
+AUC: 0.8862
+========== epoch 4 ==========
+100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.04it/s]
+Train loss: 0.090
+[Validation] F1:0.7989, Precision:0.7620, Recall:0.8412, AC: 0.9591, AUC : 0.9063
+F1 score: 0.8232
+sensitivity: 0.8164
+specificity: 0.9763
+accuracy: 0.9557
+AUC: 0.8963
+========== epoch 5 ==========
+100%|███████████████████████████████████████| 1063/1063 [01:10<00:00, 15.14it/s]
+Train loss: 0.085
+[Validation] F1:0.7975, Precision:0.7602, Recall:0.8402, AC: 0.9587, AUC : 0.9056
+F1 score: 0.8192
+sensitivity: 0.8159
+specificity: 0.9751
+accuracy: 0.9545
+AUC: 0.8955
