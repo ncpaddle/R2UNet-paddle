@@ -3,7 +3,7 @@
  
 ## Introduction 
 
-In this repository, we implement the R2U-Net network with the [Paddle](https://www.paddlepaddle.org.cn/) framework. Our model achieves F1-score 0.8234 on DRIVE dataset.  
+In this repository, we implement the R2U-Net network with the [Paddle](https://www.paddlepaddle.org.cn/) framework. Our model achieves F1-score 0.8232 on DRIVE dataset.  
 
 - Original Paper : [Recurrent Residual Convolutional NeuralNetwork based on U-Net (R2U-Net) for Medical Image Segmentation](https://arxiv.org/pdf/1802.06955.pdf)  
 - Dataset : [DRIVE](https://drive.grand-challenge.org)  
@@ -17,7 +17,7 @@ In this repository, we implement the R2U-Net network with the [Paddle](https://w
 |                          |    F1-score    |
 | ------------------------ | -------------- |
 | Original Paper's Results | 81.71          | 
-| Ours Results             | **82.34**      |
+| Ours Results             | **82.32**      |
 
 ## Reprod log
 
