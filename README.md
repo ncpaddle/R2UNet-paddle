@@ -12,6 +12,13 @@ In this repository, we implement the R2U-Net network with the [Paddle](https://w
 
 ![R2U_Net](./r2unet.png)  
 
+## Experiment Results
+
+|                          |    F1-score    |
+| ------------------------ | -------------- |
+| Original Paper's Results | 81.71          | 
+| Ours Results             | **82.34**      |
+
 ## Reprod log
 
 - [forward_diff.log](./diff/forward_diff.log)  
