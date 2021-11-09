@@ -23,10 +23,10 @@ segmentation.
 
 ## Experiment Results
 
-|                          |    F1-score    |
-| ------------------------ | -------------- |
-| Original Paper's Results | 81.71          | 
-| Ours Results             | **82.32**      |
+|                          |    F1-score    |  sensitivity | specificity | accuracy | AUC |  
+| ------------------------ | -------------- |  --------|  -------|  ------| -----|  
+| Original Paper's Results | 0.8171          | 0.7792| 0.9813 | 0.9556 | 0.9782 |  
+| Ours Results             | 0.8232     | 0.8164 | 0.9763 | 0.9557 | 0.8963 |  
 
 ## Reprod log
 
