@@ -9,7 +9,16 @@ In this repository, we implement the R2U-Net network with the [Paddle](https://w
 - Dataset : [DRIVE](https://drive.grand-challenge.org)  
 
 ## R2U-Net
-
+The proposed
+models utilize the power of U-Net, Residual Network, as well as
+RCNN. There are several advantages of these proposed
+architectures for segmentation tasks. First, a residual unit helps
+when training deep architecture. Second, feature accumulation
+with recurrent residual convolutional layers ensures better feature
+representation for segmentation tasks. Third, it allows us to design
+better U-Net architecture with same number of network
+parameters with better performance for medical image
+segmentation.  
 ![R2U_Net](./r2unet.png)  
 
 ## Experiment Results
